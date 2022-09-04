@@ -1,1 +1,1 @@
-# TenPlates
+# Templates Remix
